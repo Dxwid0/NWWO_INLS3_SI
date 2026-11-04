@@ -1,4 +1,4 @@
-# Code of Conduct - zasady postępowania[cite: 1]
+# Code of Conduct - zasady postępowania
 
 1. Cel kodeksu:
 Celem tego kodeksu jest zapewnienie przyjaznego, bezpiecznego i sprzyjającego współpracy środowiska dla wszystkich osób współtworzących projekt, niezależnie od ich doświadczenia czy poglądów.
@@ -25,4 +25,4 @@ Celem tego kodeksu jest zapewnienie przyjaznego, bezpiecznego i sprzyjającego w
 6. Konsekwencje naruszeń
 * W zależności od stopnia naruszenia, konsekwencje mogą obejmować upomnienie, tymczasowe zawieszenie praw do kontrybucji lub trwałe zablokowanie dostępu do repozytorium.
 
-**Współpraca, wzajemny szacunek i odpowiedzialność za własną pracę są podstawą rozwoju tego projektu**[cite: 1]
+**Współpraca, wzajemny szacunek i odpowiedzialność za własną pracę są podstawą rozwoju tego projektu**
