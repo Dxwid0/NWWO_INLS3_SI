@@ -1,0 +1,51 @@
+#Zasady Współpracy
+Dziekuje za zainteresowanie moim projektem. Aby ułatwic współpracę, proszę o przestrzeganie ponizszych zasad.
+
+## 1. Przygotowanie projektu
+1. Skolnuj repozytorium na swój komputer
+'''bash
+git clone https:github.com?USER/REPO.git
+'''
+'''bash
+cd REPO
+'''
+'''bash
+python -m veny .venv
+'''
+'''bash
+..venv\Scripys\Active.ps1
+pip install -r requirements.txt
+'''
+## 2 . Praca z gałęziami
+**NIE WPROWADZAJ** amian bezpośrednio na gałęzi "main"
+do każdego zsadania utówrz osobną gałąź
+stosuj czytelne nazwy gałęzi:
+- frature?add-task - nowa funkcjonalność
+- docs/update-readme - zmian w dokumentacji
+
+
+## 3. Zasady pisania kodu
+- stosuj czutelne nazwy zmiennych i funkcji
+- przestrzegaj podstawowych zasad **PEP 8**
+- dodawaj komentarze tam gdzie wymagane sa wyjaśnienia
+- nie powielaj kodu (zasada DRY)
+- nie pisz kodu na zapas (zasada YAGNI)
+**przed wysłaniem zprawdź, czy program działa poprawnie**
+
+## 4. Commity
+Każdy commit powinien zawierać krótki i zrozumuiały opis zmian w trybie rozkazujący,. przykłady:
+- git commit -m*fest: dodaj zadanie..."
+- git commit -m*fix popraw elemenet input"
+- git commit -m*docs: zaktualizuj readme.md"
+
+## 5. Zgloszenia(issues)
+
+## 6. Pull Requests
+
+## 7. Komunikacja w zespole
+-szamuj pozostałych uczestników projektu
+- informuj zespół o problemach i opónienieach
+- omawiaj istotne zmiany przed ich wprowadzeniem
+- korzystaj z issue i Pull Request do dyskusji dotyczących projektu
+
+**Dziękujemy za współpracę i wkład w rozwók projektu**
